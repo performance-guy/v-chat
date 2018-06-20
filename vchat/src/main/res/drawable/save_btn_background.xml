@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /**
+  ~  * Created by Salman Saleem on 6/21/18 12:43 AM
+  ~  * Copyright (c) 2018 . All rights reserved.
+  ~  * Last modified 4/1/17 2:11 PM
+  ~  */
+  -->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/colorWhite">
+    <item android:state_pressed="true">
+        <shape>
+            <solid android:color="@color/colorWhite" />
+            <corners android:bottomLeftRadius="4dp" android:bottomRightRadius="4dp" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <solid android:color="@color/colorAccent" />
+            <corners android:bottomLeftRadius="4dp" android:bottomRightRadius="4dp" />
+        </shape>
+    </item>
+</selector>

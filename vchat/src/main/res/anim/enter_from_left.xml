@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /**
+  ~  * Created by Salman Saleem on 6/21/18 12:42 AM
+  ~  * Copyright (c) 2018 . All rights reserved.
+  ~  * Last modified 11/17/16 1:00 AM
+  ~  */
+  -->
+
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shareInterpolator="false">
+    <translate
+        android:fromXDelta="-100%" android:toXDelta="0%"
+        android:fromYDelta="0%" android:toYDelta="0%"
+        android:duration="400"/>
+</set>

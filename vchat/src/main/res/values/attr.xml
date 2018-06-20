@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /**
+  ~  * Created by Salman Saleem on 6/21/18 12:43 AM
+  ~  * Copyright (c) 2018 . All rights reserved.
+  ~  * Last modified 12/1/17 11:54 AM
+  ~  */
+  -->
+
+<resources>
+    <declare-styleable name="FlowLayout">
+        <attr name="android:gravity" />
+    </declare-styleable>
+    <declare-styleable name="FlowLayout_Layout">
+        <attr name="android:layout_gravity" />
+    </declare-styleable>
+
+
+    <declare-styleable name="FlexLayout">
+        <attr name="viewPartMain" format="reference" />
+        <attr name="viewPartSlave" format="reference" />
+    </declare-styleable>
+
+</resources>

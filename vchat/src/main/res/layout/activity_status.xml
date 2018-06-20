@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /**
+  ~  * Created by Salman Saleem on 6/21/18 12:42 AM
+  ~  * Copyright (c) 2018 . All rights reserved.
+  ~  * Last modified 4/12/17 1:43 PM
+  ~  */
+  -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ParentLayoutStatus"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/app_bar"
+        layout="@layout/app_bar" />
+
+    <include layout="@layout/shadow_view"/>
+
+    <include layout="@layout/content_status" />
+
+</LinearLayout>

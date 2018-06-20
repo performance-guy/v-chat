@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /**
+  ~  * Created by Salman Saleem on 6/21/18 12:42 AM
+  ~  * Copyright (c) 2018 . All rights reserved.
+  ~  * Last modified 8/6/16 6:52 AM
+  ~  */
+  -->
+
+<cycleInterpolator xmlns:android="http://schemas.android.com/apk/res/android"
+    android:cycles="7" />

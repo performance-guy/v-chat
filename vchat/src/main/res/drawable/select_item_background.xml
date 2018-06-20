@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /**
+  ~  * Created by Salman Saleem on 6/21/18 12:43 AM
+  ~  * Copyright (c) 2018 . All rights reserved.
+  ~  * Last modified 8/13/16 11:23 AM
+  ~  */
+  -->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@color/colorPrimaryLightSelect"
+        android:state_activated="true" />
+    <item android:drawable="@android:color/transparent" />
+
+</selector>

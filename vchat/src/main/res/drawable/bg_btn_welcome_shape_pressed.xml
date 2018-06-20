@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /**
+  ~  * Created by Salman Saleem on 6/21/18 12:43 AM
+  ~  * Copyright (c) 2018 . All rights reserved.
+  ~  * Last modified 1/7/17 1:06 PM
+  ~  */
+  -->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <solid android:color="@color/colorWhiteLight"/>
+    <stroke android:width="0.1dp" android:color="@color/colorWhite"/>
+    <corners android:radius="6dp"/>
+</shape>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /**
+  ~  * Created by Salman Saleem on 6/21/18 12:42 AM
+  ~  * Copyright (c) 2018 . All rights reserved.
+  ~  * Last modified 4/12/17 1:45 PM
+  ~  */
+  -->
+
+<View xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="4dp"
+    android:background="@drawable/below_shadow_rect" />

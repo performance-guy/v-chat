@@ -1,0 +1,12 @@
+<!--
+  ~ /**
+  ~  * Created by Salman Saleem on 6/21/18 12:43 AM
+  ~  * Copyright (c) 2018 . All rights reserved.
+  ~  * Last modified 9/14/17 5:12 PM
+  ~  */
+  -->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+       android:shape="oval">
+	<solid android:color="@color/colorAccent"/>
+</shape>

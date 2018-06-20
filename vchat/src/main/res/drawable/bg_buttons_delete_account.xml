@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /**
+  ~  * Created by Salman Saleem on 6/21/18 12:43 AM
+  ~  * Copyright (c) 2018 . All rights reserved.
+  ~  * Last modified 8/19/16 5:22 PM
+  ~  */
+  -->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_pressed="false">
+        <shape xmlns:android="http://schemas.android.com/apk/res/android" android:padding="10dp" android:shape="rectangle">
+            <solid android:color="@color/colorRedDark" />
+            <corners android:radius="6dp" />
+        </shape>
+    </item>
+    <item android:state_pressed="true">
+        <shape xmlns:android="http://schemas.android.com/apk/res/android" android:padding="10dp" android:shape="rectangle">
+            <solid android:color="@color/colorWhiteLight" />
+            <corners android:radius="6dp" />
+        </shape>
+    </item>
+
+</selector>

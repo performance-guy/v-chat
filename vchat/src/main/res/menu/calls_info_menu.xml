@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /**
+  ~  * Created by Salman Saleem on 6/21/18 12:42 AM
+  ~  * Copyright (c) 2018 . All rights reserved.
+  ~  * Last modified 12/8/17 7:38 AM
+  ~  */
+  -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/new_message"
+        android:icon="@drawable/ic_chat_white_24dp"
+        android:orderInCategory="100"
+        android:title="@string/new_message"
+        app:showAsAction="always" />
+
+
+    <item
+        android:id="@+id/remove_from_log"
+        android:orderInCategory="100"
+        android:title="@string/remove_from_log"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/block_user"
+        android:orderInCategory="100"
+        android:title="@string/block_user"
+        app:showAsAction="never" />
+</menu>

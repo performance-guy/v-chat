@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /**
+  ~  * Created by Salman Saleem on 6/21/18 12:42 AM
+  ~  * Copyright (c) 2018 . All rights reserved.
+  ~  * Last modified 6/12/17 4:41 PM
+  ~  */
+  -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/search_calls"
+        android:icon="@drawable/ic_search_24dp"
+        android:orderInCategory="100"
+        android:title="@string/search"
+        app:showAsAction="always" />
+
+
+    <item
+        android:id="@+id/clear_log_call"
+        android:orderInCategory="100"
+        android:title="@string/clear_log_call"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/settings"
+        android:orderInCategory="100"
+        android:title="@string/settings"
+        app:showAsAction="never" />
+</menu>

@@ -1,0 +1,15 @@
+<!--
+  ~ /**
+  ~  * Created by Salman Saleem on 6/21/18 12:43 AM
+  ~  * Copyright (c) 2018 . All rights reserved.
+  ~  * Last modified 3/13/17 11:35 AM
+  ~  */
+  -->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <gradient
+        android:angle="90"
+        android:endColor="@color/colorAttachAudioEnd"
+        android:startColor="@color/colorAttachAudioStart" />
+</shape>

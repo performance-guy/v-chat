@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /**
+  ~  * Created by Salman Saleem on 6/21/18 12:42 AM
+  ~  * Copyright (c) 2018 . All rights reserved.
+  ~  * Last modified 12/1/17 11:35 AM
+  ~  */
+  -->
+
+<set xmlns:android="https://schemas.android.com/apk/res/android">
+
+    <rotate
+        android:duration="2000"
+        android:fromDegrees="360"
+        android:toDegrees="0"
+        android:pivotX="50%"
+        android:pivotY="50%"
+        />
+
+</set>

@@ -1,0 +1,18 @@
+<!--
+  ~ /**
+  ~  * Created by Salman Saleem on 6/21/18 12:43 AM
+  ~  * Copyright (c) 2018 . All rights reserved.
+  ~  * Last modified 7/26/16 3:35 PM
+  ~  */
+  -->
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:autoMirrored="true"
+    android:viewportHeight="24.0"
+    android:viewportWidth="24.0">
+    <path
+        android:fillColor="@color/colorWhite"
+        android:pathData="M19,9h-4V3H9v6H5l7,7 7,-7zM5,18v2h14v-2H5z" />
+</vector>

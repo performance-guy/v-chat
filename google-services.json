@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "339916022728",
+    "firebase_url": "https://testproject-2b8ad.firebaseio.com",
+    "project_id": "testproject-2b8ad",
+    "storage_bucket": "testproject-2b8ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339916022728:android:6eb3e8e0d9873e84",
+        "android_client_info": {
+          "package_name": "com.tcv.vassistchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339916022728-1ea1v05hbuuo40cj072s6f8ernkqdt7u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tcv.vassistchat",
+            "certificate_hash": "ed1b5843a608c7fbac4f5e7926fe532a086dac44"
+          }
+        },
+        {
+          "client_id": "339916022728-e1dig6gtbmvgcn1so5mj9l8thuj78fgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmLQ_YFbhOZ-0y8-1UzJK5k9xUI1UrA8U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339916022728-e1dig6gtbmvgcn1so5mj9l8thuj78fgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<!--
+  ~ /**
+  ~  * Created by Salman Saleem on 6/21/18 12:43 AM
+  ~  * Copyright (c) 2018 . All rights reserved.
+  ~  * Last modified 6/25/16 10:53 AM
+  ~  */
+  -->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/colorWhite" android:state_selected="true" />
+    <item android:drawable="@color/colorWhite" />
+</selector>

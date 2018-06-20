@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /**
+  ~  * Created by Salman Saleem on 6/21/18 12:42 AM
+  ~  * Copyright (c) 2018 . All rights reserved.
+  ~  * Last modified 12/1/17 6:47 AM
+  ~  */
+  -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/edit_contact"
+        android:icon="@drawable/ic_mode_edit_white_24dp"
+        android:orderInCategory="100"
+        android:title="@string/edit"
+        app:showAsAction="never" />
+
+</menu>

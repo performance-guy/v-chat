@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /**
+  ~  * Created by Salman Saleem on 6/21/18 12:43 AM
+  ~  * Copyright (c) 2018 . All rights reserved.
+  ~  * Last modified 8/14/16 2:24 PM
+  ~  */
+  -->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+     <item android:state_pressed="true">
+        <shape android:shape="oval" >
+            <solid android:color="@color/colorWhiteLight"/>
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@android:color/transparent"/>
+        </shape>
+    </item>
+</selector>

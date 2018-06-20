@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /**
+  ~  * Created by Salman Saleem on 6/21/18 12:43 AM
+  ~  * Copyright (c) 2018 . All rights reserved.
+  ~  * Last modified 6/25/16 10:53 AM
+  ~  */
+  -->
+
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/colorGray">
+    <item
+        android:id="@android:id/mask"
+        android:drawable="@drawable/bg_ripple"/>
+</ripple>

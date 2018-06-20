@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /**
+  ~  * Created by Salman Saleem on 6/21/18 12:43 AM
+  ~  * Copyright (c) 2018 . All rights reserved.
+  ~  * Last modified 3/12/17 12:37 PM
+  ~  */
+  -->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <corners android:radius="6dp" />
+    <gradient
+        android:angle="270"
+        android:centerColor="@color/transparent"
+        android:endColor="#20000000"
+        android:startColor="#20000000" />
+</shape>

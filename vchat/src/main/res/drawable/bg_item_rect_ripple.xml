@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /**
+  ~  * Created by Salman Saleem on 6/21/18 12:43 AM
+  ~  * Copyright (c) 2018 . All rights reserved.
+  ~  * Last modified 8/14/16 3:05 PM
+  ~  */
+  -->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/colorGray">
+     <item android:state_pressed="true">
+        <shape >
+            <solid android:color="@color/colorGray">
+            </solid>
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <solid android:color="@android:color/transparent"/>
+        </shape>
+    </item>
+</selector>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /**
+  ~  * Created by Salman Saleem on 6/21/18 12:43 AM
+  ~  * Copyright (c) 2018 . All rights reserved.
+  ~  * Last modified 8/19/16 5:23 PM
+  ~  */
+  -->
+
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@android:color/white">
+    <item
+        android:id="@android:id/mask"
+        android:drawable="@drawable/bg_btn_delete_account_shape_pressed" />
+
+    <item android:drawable="@drawable/bg_btn_delete_account_shape"
+        />
+</ripple>
